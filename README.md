@@ -40,7 +40,7 @@ Follow these steps to get a local copy of the project up and running.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/youtube-clone-backend.git]
+    git clone [`https://github.com/Harianki7412/youtube-backend.git`]
     cd youtube-clone-backend
     ```
 
